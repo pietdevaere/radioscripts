@@ -1,2 +1,2 @@
 #! /bin/bash
-mplayer http://mp3.streampower.be/klaracontinuo-high.mp3
+/Applications/VLC.app/Contents/MacOS/VLC http://mp3.streampower.be/klaracontinuo-high.mp3
